@@ -22,3 +22,21 @@
 | Число           | [task_F](part_2/task_F.cpp) | ✅     |
 | Кошмар в замке  | [task_G](part_2/task_G.cpp) | ✅     |
 | Магазин         | [task_H](part_2/task_H.cpp) | ✅     |
+
+### БЛОК №3 - Структуры данных
+
+| Task               | Link                        | Passed |
+| :---:              | :---:                       | :---:  |
+| Машинки            | [task_I](part_3/task_I.cpp) | ✅     |
+| Гоблины и очереди  | [task_J](part_3/task_J.cpp) | ✅     |
+| Менеджер памяти-1  | [task_K](part_3/task_K.cpp) | ✅     |
+| Минимум на отрезке | [task_L](part_3/task_L.cpp) | ✅     |
+
+### БЛОК №4 - Алгоритмы на графах
+
+| Task              | Link                        | Passed |
+| :---:             | :---:                       | :---:  |
+| Цивилизация       | [task_M](part_4/task_M.cpp) | ✅     |
+| Свинки-копилки    | [task_N](part_4/task_N.cpp) | ✅     |
+| Долой списывание! | [task_O](part_4/task_O.cpp) | ✅     |
+| Авиаперелёты      | task_P                       | ❌     |
