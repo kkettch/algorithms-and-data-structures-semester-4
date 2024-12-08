@@ -1,4 +1,4 @@
-# AlgorithmsAndDataStructures_semester4
+# algorithms-and-data-structures-semester-4
 Выполнение задач по предмету "Алгоритмы и структуры данных" на 4-ом семестре Университета ИТМО
 
 ## Статистика
